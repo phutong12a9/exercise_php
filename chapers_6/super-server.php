@@ -1,0 +1,1 @@
+<?php echo sprintf("%s", print_r($_SERVER, true));
